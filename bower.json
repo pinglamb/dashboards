@@ -15,7 +15,12 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
+    "index.html",
+    ".gitignore",
+    ".bowerrc",
+    "demo-data",
+    "examples",
+    "layouts",
     "node_modules",
     "bower_components",
     "test",
